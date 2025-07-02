@@ -1,0 +1,2 @@
+# Random-Forest-Based-Land-Cover-Classification-Using-Sentinel-2-Remote-Sensing-Data-in-Python
+This repository demonstrates a complete land cover classification pipeline using Sentinel-2 multispectral imagery and a Random Forest machine learning model in Python. The workflow includes preprocessing, index calculation, training using labeled samples, pixel-wise classification, and accuracy assessment.
